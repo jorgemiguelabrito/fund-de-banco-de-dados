@@ -15,3 +15,4 @@
 |ABC|Gerenciamento de Incidentes|
 |ABC|Atualizações e Patch Management|
 |ABC|Documentação e Comunicação|
+|ABC|Automação e Ferramentas|
