@@ -1,4 +1,3 @@
-README.MD
 
 # fund-de-banco-de-dados
 
