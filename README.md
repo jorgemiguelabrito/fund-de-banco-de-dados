@@ -6,9 +6,9 @@
 |Definições Gerais e Modelagem de Dados|Administração e Manutenção de Bancos de Dados|
 |Modelagem de dados Utilizando o modelo entidade relacionamento (MER)|Backup e Recuperação|
 |Modelos Star-schema e Tabela Fato no Power BI|Otimização e Desempenho|
-|ABC|Segurança de Dados|
-|ABC|Modelagem e Design de Dados|
-|ABC|Integração e ETL (Extração, Transformação e Carga)|
+|Modelos Star-schema Modelo de dados relacional e Desenho esquemático do modelo|Segurança de Dados|
+|Linguagens Formais de Consulta e Estrutura SQL|Modelagem e Design de Dados|
+|Dependências Funcionais e Normalização de Base de dados|Integração e ETL (Extração, Transformação e Carga)|
 |ABC|Desenvolvimento e Suporte a Aplicações|
 |ABC|Conformidade e Regulamentações|
 |ABC|Gerenciamento de Incidentes|
